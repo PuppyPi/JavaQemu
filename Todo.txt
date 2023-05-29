@@ -9,3 +9,6 @@
 • No warning on not saving before starting!
 	• Make it optional X3
 • The Welcome/main non-vm-specific tab says "Untitled" not "Welcome" or "General" or "JavaQemu"!
+• Don't give a warning if pre-run and post-run scripts are absent!! dlfkjfldkj why is that bad? XD
+• Make relative paths be relative to the parent folder of the .xml file for the VM! :>
+• Better tracking of when qemu is running and for which VM XD
