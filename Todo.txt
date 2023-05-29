@@ -1,0 +1,11 @@
+• See the version of qemu-img not working!
+• Spaces in VM name!  (whyyyyyyyyyy is bash -c even being used at all!?! X'D )
+• See the output(s)/error(s) shows message window twice!
+• Message windows always being huge even when unnecessary XD''
+• Only one running qemu process!?  But there can be multiple VM's!!
+• Doesn't remember the qemu-executable-path/etc. configuration from last time X'D
+• Doesn't reload VM configurations tabs!
+• No warning on dropping unsaved changes!
+• No warning on not saving before starting!
+	• Make it optional X3
+• The Welcome/main non-vm-specific tab says "Untitled" not "Welcome" or "General" or "JavaQemu"!
