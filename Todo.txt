@@ -12,3 +12,4 @@
 • Don't give a warning if pre-run and post-run scripts are absent!! dlfkjfldkj why is that bad? XD
 • Make relative paths be relative to the parent folder of the .xml file for the VM! :>
 • Better tracking of when qemu is running and for which VM XD
+• No "You opened the virtual machine!" message after "Do you want to open the new virtual machine?" (daw) XD
